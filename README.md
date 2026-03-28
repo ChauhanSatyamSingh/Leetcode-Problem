@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
