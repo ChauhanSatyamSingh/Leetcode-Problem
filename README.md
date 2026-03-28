@@ -7,8 +7,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
