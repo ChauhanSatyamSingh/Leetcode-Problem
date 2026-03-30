@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0941-valid-mountain-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0941-valid-mountain-array) |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
