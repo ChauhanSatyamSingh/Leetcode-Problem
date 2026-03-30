@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
