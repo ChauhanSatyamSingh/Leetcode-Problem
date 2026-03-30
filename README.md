@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0263-ugly-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
