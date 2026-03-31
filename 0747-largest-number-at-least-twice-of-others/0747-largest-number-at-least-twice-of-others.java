@@ -14,8 +14,7 @@ class Solution {
             }
         }
 
-        if (max >= max2 * 2)
-            return idx;
-        return -1;
+        return max >= (max2 * 2) ? idx : -1;
+            
     }
 }
