@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
