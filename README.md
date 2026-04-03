@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
