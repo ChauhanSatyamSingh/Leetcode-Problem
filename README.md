@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-valid-mountain-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
