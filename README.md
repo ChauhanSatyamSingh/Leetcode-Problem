@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
