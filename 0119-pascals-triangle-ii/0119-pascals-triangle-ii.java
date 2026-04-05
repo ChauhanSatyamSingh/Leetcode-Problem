@@ -1,20 +1,16 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
-        List<Integer> prev = new ArrayList<>();
-        prev.add(1);
 
+        //use combination logic: (prev col val)*(n-r+1)/r
+        //n --> rowIndex, r --> coloum no(i)
+
+        List<Integer> row = new ArrayList<>();
+        row.add(1);
         for(int i = 1; i <= rowIndex; i++) {
-            List<Integer> curr = new ArrayList<>();
-            curr.add(1);
-
-            for(int idx = 1; idx <= i - 1; idx++) {
-                curr.add(prev.get(idx) + prev.get(idx-1));
-            }
-
-            curr.add(1);
-            prev = curr;
+                int currEle = (int)(row.get(i - 1) * (long)(rowIndex - i + 1) / i);
+                row.add(currEle);
         }
 
-        return prev;
+        return row;
     }
 }
