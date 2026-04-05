@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0118-pascals-triangle) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0561-array-partition](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1051-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
