@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0263-ugly-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2485-find-the-pivot-integer](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 ## Sliding Window
 |  |
 | ------- |
