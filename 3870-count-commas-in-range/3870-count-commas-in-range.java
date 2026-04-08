@@ -1,7 +1,9 @@
 class Solution {
     public int countCommas(int n) {
-        if(n >= 1 && n <= 999) return 0;
+        int comas = 0;
 
-        return(n - 999);
+        if(n > 999) comas = n - 999;
+
+        return comas;
     }
 }
