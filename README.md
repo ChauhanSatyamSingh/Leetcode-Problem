@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0263-ugly-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -129,10 +130,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0136-single-number) |
 ## Counting Sort
 |  |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
