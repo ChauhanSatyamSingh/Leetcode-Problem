@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
