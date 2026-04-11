@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1051-height-checker) |
 ## Simulation
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
