@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0242-valid-anagram) |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
