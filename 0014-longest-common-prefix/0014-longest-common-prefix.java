@@ -10,7 +10,6 @@ class Solution {
             int min = Math.min(first.length(), second.length());
             int j = 0;
             while(j < min) {
-                if(first.charAt(0) != second.charAt(0)) return "";
                 if(first.charAt(j) != second.charAt(j)) break;
 
                 if(j == minLen) break;
