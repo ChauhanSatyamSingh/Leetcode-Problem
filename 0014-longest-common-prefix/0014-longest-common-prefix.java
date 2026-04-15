@@ -13,6 +13,8 @@ class Solution {
                 if(first.charAt(0) != second.charAt(0)) return "";
                 if(first.charAt(j) != second.charAt(j)) break;
 
+                if(j == minLen) break;
+
                 j++;
             }
 
