@@ -7,8 +7,8 @@ class Solution {
             String first = strs[i];
             String second = strs[i + 1];
 
-            int min = Math.min(first.length(), second.length());
             int j = 0;
+            int min = Math.min(first.length(), second.length());
             while(j < min) {
                 if(first.charAt(j) != second.charAt(j)) break;
 
