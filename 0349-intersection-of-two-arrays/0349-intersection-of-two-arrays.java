@@ -3,23 +3,20 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         Set<Integer> resultSet = new HashSet<>();
 
-        for(int x: nums1) {
-            set.add(x);
-        }
+        for(int n1: nums1) set.add(n1);
 
-        for(int x: nums2) {
-            if(set.contains(x)) {
-                resultSet.add(x);
-            }
+        for(int n2: nums2) {
+            if(set.contains(n2)) resultSet.add(n2);
         }
 
         int[] res = new int[resultSet.size()];
         int k = 0;
-        for(int x: resultSet) {
-            res[k] = x;
+
+        for(int rS: resultSet) {
+            res[k] = rS;
             k++;
         }
 
-        return res;
+        return Arrays.copyOfRange(res, 0, k);
     }
 }
