@@ -1,75 +1,18 @@
 class Solution {
     public String reverseWords(String s) {
-        // "  hello  world  "
-        //  l              r
-        int left = 0;
-        int right = s.length() - 1;
+        // Trim the input string to remove leading and trailing spaces
+        String[] str = s.trim().split("\\s+");
 
-        while(left < s.length() && s.charAt(left) == ' ') left++;
-        // "  hello  world  "
-        //    l            r
+        // Initialize the output string
+        String out = "";
 
-        while(right >= 0 && s.charAt(right) == ' ') right--; 
-        // "  hello  world  "
-        //    l          r
-
-        StringBuilder sb = new StringBuilder();
-        while(left <= right) {
-            if(s.charAt(left) != ' ') sb.append(s.charAt(left));
-            else if(s.charAt(left - 1) != ' ') sb.append(s.charAt(left));
-
-            left++;
-            
-        }
-        // sb=hello world
-
-        int i = 0;
-        int j = sb.length() - 1;
-
-        while(i < j) {
-            char temp = sb.charAt(i);
-            sb.setCharAt(i, sb.charAt(j));
-            sb.setCharAt(j, temp);
-
-            i++;
-            j--;
-        }
-        // sb=dlrow olleh
-        //    s
-        //    e
-
-        int st = 0;
-        int end = 0;
-
-        while(st < sb.length()) {
-            while(end < sb.length() && sb.charAt(end) != ' ') end++;
-                // sb=dlrow olleh
-                //    s
-                //         e
-
-            // Reverse between s and (e-1)
-            i = st;
-            j = end - 1;
-            while(i < j) {
-                char temp = sb.charAt(i);
-                sb.setCharAt(i, sb.charAt(j));
-                sb.setCharAt(j, temp);
-
-                i++;
-                j--;
-            }
-            // sb=world olleh
-            //      i
-            //      j
-
-            st = end + 1;
-            end = end + 1;
-            // sb=dlrow olleh
-            //          s
-            //          e
-
+        // Iterate through the words in reverse order
+        for (int i = str.length - 1; i > 0; i--) {
+            // Append the current word and a space to the output
+            out += str[i] + " ";
         }
 
-        return sb.toString();
+        // Append the first word to the output (without trailing space)
+        return out + str[0];
     }
 }
