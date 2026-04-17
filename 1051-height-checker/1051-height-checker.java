@@ -1,25 +1,22 @@
 class Solution {
     public int heightChecker(int[] heights) {
-        int[] count = new int[101];
+        int[] exp = new int[101];
 
-        for(int x: heights)
-            count[x]++;
+        for(int h: heights) {
+            exp[h]++;
+        }
 
-        int[] res = new int[heights.length];
-        int k = 0;
-        for(int i = 0; i < count.length; i++) {
-            while(count[i] > 0) {
-                res[k] = i;
-                k++;
-                count[i]--;
+        int count = 0;
+        int j = 0;
+        for(int i = 0; i < exp.length; i++) {
+            while(exp[i] > 0) {
+                if(i != heights[j]) count++;
+                j++;
+
+                exp[i]--;
             }
         }
 
-        int heightChecker = 0;
-        for(int i = 0; i < heights.length; i++) {
-            if(res[i] != heights[i]) heightChecker++;
-        }
-
-        return heightChecker;
+        return count;
     }
 }
