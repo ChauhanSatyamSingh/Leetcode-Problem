@@ -4,17 +4,14 @@ class Solution {
         int idx = 0;
         int max2 = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > max) {
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] > max) {
                 max2 = max;
                 max = nums[i];
                 idx = i;
-            } else if (nums[i] > max2 && nums[i] < max) {
-                max2 = nums[i];
-            }
+            } else if(nums[i] > max2 && nums[i] < max) max2 = nums[i];
         }
 
-        return max >= (max2 * 2) ? idx : -1;
-            
+        return max2 * 2 > max ? -1 : idx;
     }
 }
