@@ -1,31 +1,29 @@
 class Solution {
-
-    public static void reverse(char[] charArr, int st, int end) {
-        while(st < end) {
-            char temp = charArr[st];
-            charArr[st] = charArr[end];
-            charArr[end] = temp;
-
-            st++;
-            end--;
-        }
-    }
-
     public String reverseWords(String s) {
-        char[] charArr = s.toCharArray();
+        char[] chArr = s.toCharArray();
 
         int st = 0;
         int end = 0;
 
-        while(st < charArr.length) {
-            while(end < charArr.length && charArr[end] != ' ') end++;
+        while(st < chArr.length) {
+            while(end < chArr.length && chArr[end] != ' ') end++;
 
-            reverse(charArr, st, end-1);
+            reverse(chArr, st, end-1);
 
-            st = end + 1;
-            end = end + 1;
+            st = ++end;
         }
 
-        return new String(charArr);
+        return new String(chArr);
+    }
+
+    public static void reverse(char[] chArr, int st, int end) {
+        while(st < end) {
+            char temp = chArr[st];
+            chArr[st] = chArr[end];
+            chArr[end] = temp;
+
+            st++;
+            end--;
+        }
     }
 }
