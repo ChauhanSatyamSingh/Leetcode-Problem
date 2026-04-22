@@ -1,72 +1,26 @@
 class Solution {
     public String reverseWords(String s) {
-        // "  hello  world  "
-        //  l              r
-        int left = 0;
-        int right = s.length() - 1;
-
-        while(left < s.length() && s.charAt(left) == ' ') left++;
-        // "  hello  world  "
-        //    l            r
-
-        while(right >= 0 && s.charAt(right) == ' ') right--; 
-        // "  hello  world  "
-        //    l          r
-
         StringBuilder sb = new StringBuilder();
-        while(left <= right) {
-            if(s.charAt(left) != ' ') sb.append(s.charAt(left));
-            else if(s.charAt(left - 1) != ' ') sb.append(s.charAt(left));
 
-            left++;
-            
-        }
-        // sb=hello world
+        int i = s.length() - 1;
 
-        int i = 0;
-        int j = sb.length() - 1;
+        while(i >= 0) {
 
-        while(i < j) {
-            char temp = sb.charAt(i);
-            sb.setCharAt(i, sb.charAt(j));
-            sb.setCharAt(j, temp);
+            //Skip spaces
+            while(i >= 0 && s.charAt(i) == ' ') i--;
 
-            i++;
-            j--;
-        }
-        // sb=dlrow olleh
-        //    s
-        //    e
+            if(i < 0) break;
 
-        int st = 0;
-        int end = 0;
+            int end = i;
 
-        while(st < sb.length()) {
-            while(end < sb.length() && sb.charAt(end) != ' ') end++;
-                // sb=dlrow olleh
-                //    s
-                //         e
+            //Move to start of the word
+            while(i >= 0 && s.charAt(i) != ' ') i--;
 
-            // Reverse between s and (e-1)
-            i = st;
-            j = end - 1;
-            while(i < j) {
-                char temp = sb.charAt(i);
-                sb.setCharAt(i, sb.charAt(j));
-                sb.setCharAt(j, temp);
+            //add space only if not first word
+            if(sb.length() > 0) sb.append(' ');
 
-                i++;
-                j--;
-            }
-            // sb=world olleh
-            //      i
-            //      j
-
-            st = end + 1;
-            end = end + 1;
-            // sb=dlrow olleh
-            //          s
-            //          e
+            //add word correctly
+            sb.append(s.substring(i+1, end+1));
 
         }
 
