@@ -11,42 +11,50 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        ListNode tA = headA;
+        ListNode tB = headB;
 
-        //checking size
-        ListNode temp1 = headA;
-        int count1 = 0;
-        while (temp1 != null) {
-            count1++;
-            temp1 = temp1.next;
+        //count no. element in headA
+        int cA = 0;
+        while (tA != null) {
+            cA++;
+            tA = tA.next;
         }
 
-        ListNode temp2 = headB;
-        int count2 = 0;
-        while (temp2 != null) {
-            count2++;
-            temp2 = temp2.next;
+        //counting no. element in headB
+        int cB = 0;
+        while (tB != null) {
+            cB++;
+            tB = tB.next;
         }
 
-        //taking Linked list of smaller size
-        if (count1 > count2)
+        ListNode a = headA;
+        ListNode b = headB;
+
+        //taking list with more no. elements
+        if (cA < cB)
             return getIntersectionNode(headB, headA);
 
-        Set<ListNode> set = new HashSet<>();
+        //calculation differecne in no. of elements
+        int diff = cA - cB;
 
-        //sorting Linked list in set
-        while (headA != null) {
-            set.add(headA);
-            headA = headA.next;
+        //move a until diff greater than 0
+        while (diff > 0) {
+            a = a.next;
+            diff--;
         }
 
-        //checking element
-        while (headB != null) {
-            if (set.contains(headB))
-                return headB;
-
-            headB = headB.next;
+        //now move both a and b till null
+        while (a != null && b != null) {
+            //if they match at any element return that
+            if (a == b)
+                return a;
+                
+            a = a.next;
+            b = b.next;
         }
 
+        //if not matched return null
         return null;
     }
 }
