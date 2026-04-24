@@ -11,41 +11,50 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        //hogya
+        ListNode tA = headA;
+        ListNode tB = headB;
+
+        //count no. element in headA
+        int cA = 0;
+        while (tA != null) {
+            cA++;
+            tA = tA.next;
+        }
+
+        //counting no. element in headB
+        int cB = 0;
+        while (tB != null) {
+            cB++;
+            tB = tB.next;
+        }
+
         ListNode a = headA;
         ListNode b = headB;
 
-        int cA = 1;
-        while(a != null) {
-            cA++;
-            a = a.next;
-        }
-
-        int cB = 1;
-        while(b != null) {
-            cB++;
-            b = b.next;
-        }
-
-        if(cB < cA) 
+        //taking list with more no. elements
+        if (cA < cB)
             return getIntersectionNode(headB, headA);
 
-        int diff = cB - cA;
+        //calculation differecne in no. of elements
+        int diff = cA - cB;
 
-        a = headA;
-        b = headB;
-        while(diff >= 1) {
-            b = b.next;
+        //move a until diff greater than 0
+        while (diff > 0) {
+            a = a.next;
             diff--;
         }
 
-        while(a != null && b != null) {
-            if(a == b) return a;
-
+        //now move both a and b till null
+        while (a != null && b != null) {
+            //if they match at any element return that
+            if (a == b)
+                return a;
+                
             a = a.next;
             b = b.next;
         }
 
+        //if not matched return null
         return null;
     }
 }
