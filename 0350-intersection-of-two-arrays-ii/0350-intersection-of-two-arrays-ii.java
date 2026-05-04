@@ -5,11 +5,11 @@ class Solution {
         int size = nums1.length > nums2.length ? nums2.length : nums1.length;
         int[] res = new int[size];
         int k = 0;
-        for(int n: nums1) num[n]++;
-        for(int n: nums2) {
-            if(num[n] > 0) {
-                res[k++] = n;
-                num[n]--;
+        for(int x: nums1) num[x]++;
+        for(int x: nums2) {
+            if(num[x] > 0) {
+                res[k++] = x;
+                num[x]--;
             }
         }
         return Arrays.copyOfRange(res, 0, k);
