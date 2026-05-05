@@ -10,13 +10,14 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        int size = 0;
-        ListNode curr = head;
-        while(curr != null) {
-            size++;
-            curr = curr.next;
-        }
-        if(size <= 2) return head;
+        // int size = 0;
+        // ListNode curr = head;
+        // while(curr != null) {
+        //     size++;
+        //     curr = curr.next;
+        // }
+        // if(size <= 2) return head;
+        if(head == null) return null;
 
         ListNode odd = head;
         ListNode even = head.next;
