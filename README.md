@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0234-palindrome-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
