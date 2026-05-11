@@ -17,39 +17,37 @@ class Solution {
     public Node copyRandomList(Node head) {
         if(head == null) return null;
 
-        Map<Node, Node> map = new HashMap<>();
-
-        Node newHead = new Node(head.val);
-
-        map.put(head, newHead);
-
         Node curr = head,
-             newCurr = newHead;
+             newCurr = head;
 
         while(curr != null) {
-            if(curr.random != null) {
-                if(map.get(curr.random) != null) {
-                    newCurr.random = map.get(curr.random);
-                }else {
-                    Node node = new Node(curr.random.val);
-                    map.put(curr.random, node);
-                    newCurr.random = node;
-                }
-            }
+            Node node = new Node(curr.val);
+            Node currNext = curr.next;
+            node.next = curr.next;
+            curr.next = node;
+            curr = currNext;
+        }
 
-            if(curr.next != null) {
-                if(map.get(curr.next) != null) {
-                    newCurr.next = map.get(curr.next);
-                }else {
-                    Node node = new Node(curr.next.val);
-                    map.put(curr.next, node);
-                    newCurr.next = node;
-                }
-            }
 
-            curr = curr.next;
-            newCurr = newCurr.next;
-        } 
-        return newHead;
+        curr = head;
+        while(curr != null) {
+            Node newNode = curr.next;
+            newNode.random = curr.random != null ? curr.random.next : null;  
+            curr = curr.next.next;
+        }
+
+
+        Node oldHead = head,
+             newHead = head.next,
+             resultHead = head.next;
+
+        while(oldHead != null) {
+            oldHead.next = newHead.next;
+            oldHead = newHead.next;
+            newHead.next = oldHead != null ? oldHead.next : null;
+            newHead = newHead.next;
+        }
+
+        return resultHead;
     }
 }
