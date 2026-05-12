@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0905-sort-array-by-parity) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -214,11 +216,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -248,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
