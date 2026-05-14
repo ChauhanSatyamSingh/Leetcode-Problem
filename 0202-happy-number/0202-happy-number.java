@@ -11,14 +11,19 @@ class Solution {
     }
 
     public boolean isHappy(int n) {
-        Set<Integer> set = new HashSet<>();
+        // floyd cycle detection algorithm
 
-        while(n != 1) {
-            if(!set.add(n)) return false;
+        int slow = n;
+        int fast = n;
 
-            n = sumOfSquareOfDigits(n);
-        }
+        do {
+            slow = sumOfSquareOfDigits(slow);
+            fast = sumOfSquareOfDigits(sumOfSquareOfDigits(fast));
 
-        return true;
+            if(fast == 1) return true;
+
+        } while(slow != fast);
+
+        return false;
     }
 }
