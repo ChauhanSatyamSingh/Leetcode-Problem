@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0724-find-pivot-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
