@@ -1,17 +1,19 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        //done
-        int[] num = new int[1001];
-        int size = nums1.length > nums2.length ? nums2.length : nums1.length;
-        int[] res = new int[size];
+        int[] freq = new int[1001];
+
+        for(int num: nums1) freq[num]++;
+
+        int[] res = new int[nums2.length];
         int k = 0;
-        for(int x: nums1) num[x]++;
-        for(int x: nums2) {
-            if(num[x] > 0) {
-                res[k++] = x;
-                num[x]--;
+
+        for(int num: nums2) {
+            if(freq[num] > 0) {
+                res[k++] = num;
+                freq[num]--;
             }
         }
+
         return Arrays.copyOfRange(res, 0, k);
     }
 }
