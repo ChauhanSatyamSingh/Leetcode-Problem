@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
