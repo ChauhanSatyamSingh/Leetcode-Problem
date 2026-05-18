@@ -8,18 +8,14 @@ class Solution {
             Arrays.sort(arr);
             String s = new String(arr);
 
-            if(!map.containsKey(s)) {
+            if(!map.containsKey(s))
                 map.put(s, new ArrayList<>());
-            }
 
             map.get(s).add(str);
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for(String s: map.keySet()) {
-            res.add(map.get(s));
-        }
+        
 
-        return res;
+        return new ArrayList<>(map.values());
     }
 }
