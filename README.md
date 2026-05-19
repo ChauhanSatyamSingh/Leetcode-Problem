@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0705-design-hashset](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/0771-jewels-and-stones) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ChauhanSatyamSingh/Leetcode-Problem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Bit Manipulation
 |  |
