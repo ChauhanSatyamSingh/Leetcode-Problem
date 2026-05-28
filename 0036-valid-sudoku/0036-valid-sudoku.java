@@ -19,7 +19,6 @@ class Solution {
                 boxes[boxIdx][val] = 1;
             }
         }
-
         return true;
     }
 }
